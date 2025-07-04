@@ -1,17 +1,39 @@
-## Hi there , I am Harshit Jain👋
-## A passionate developer and explorer, eager to embrace new opportunities, solve real-world problems, and contribute to society through innovative technology.
+# 👋 Hi there, I’m Harshit Jain!
 
-<!--
-**harshitj100/harshitj100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 A passionate developer and explorer, eager to embrace new opportunities, solve real-world problems, and contribute to society through innovative technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Pursuing my graduation from **Delhi Technological University (DTU)**
+- 💻 Full-Stack Web Developer  
+- 🤖 Machine Learning Enthusiast  
+- 🌍 Curious explorer of new technologies and ideas
+
+---
+
+## 🛠️ Skills
+
+- **Languages & Frameworks:** JavaScript, Python, Node.js, Express.js, React, HTML, CSS
+- **Databases:** MongoDB, MySQL
+- **Machine Learning:** scikit-learn, TensorFlow, PyTorch
+- **Tools & Platforms:** Git, GitHub, VS Code, Linux
+
+---
+
+## 🌱 Currently Learning
+
+- Generative AI (GenAI)
+- Transformer architectures
+- Advanced Machine Learning techniques
+
+---
+
+## 🤝 Let’s Connect!
+
+- 📫 Email: [harshitjainmahi@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/harshit-jain-a91492277/]
+
+---
+
