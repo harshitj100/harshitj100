@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there , I am Harshit Jain👋
+## A passionate developer and explorer, eager to embrace new opportunities, solve real-world problems, and contribute to society through innovative technology.
 
 <!--
 **harshitj100/harshitj100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
