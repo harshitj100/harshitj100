@@ -1,11 +1,5 @@
 # Hi 👋, I'm Harshit Jain
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Open+Source+Contributor" />
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 B.Tech in Software Engineering at Delhi Technological University (DTU)
@@ -21,24 +15,29 @@
 ## 💻 Tech Stack
 
 ### Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,sql,html,css"/>
 </p>
 
 ### Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
 </p>
 
 ### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb"/>
 </p>
 
 ### AI / ML
+
 TensorFlow • PyTorch • Scikit-learn • Hugging Face • BERT • Sentence Transformers • Pandas • NumPy
 
 ### Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma"/>
 </p>
@@ -56,12 +55,6 @@ TensorFlow • PyTorch • Scikit-learn • Hugging Face • BERT • Sentence T
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitj100&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitj100&theme=tokyo-night"/>
 
 ---
 
@@ -98,6 +91,4 @@ TensorFlow • PyTorch • Scikit-learn • Hugging Face • BERT • Sentence T
 ## 📫 Connect With Me
 
 - 📧 Email: **harshitjainmahi@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/harshit-jain-a91492277/
-
-![](https://komarev.com/ghpvc/?username=harshitj100&style=for-the-badge)
+- 💼 LinkedIn: **https://www.linkedin.com/in/harshit-jain-a91492277/**
