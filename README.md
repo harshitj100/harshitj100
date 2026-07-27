@@ -1,13 +1,19 @@
 # Hi 👋, I'm Harshit Jain
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+---
+
 ## 🚀 About Me
 
-- 🎓 B.Tech in Software Engineering at Delhi Technological University (DTU)
+- 🎓 B.Tech in Software Engineering at **Delhi Technological University (DTU)**
 - 💡 Passionate about building scalable software, AI-powered applications, and developer tools.
-- 🧠 Interested in Full-Stack Development, Machine Learning, NLP, and System Design.
+- 🧠 Interested in **Full-Stack Development, Machine Learning, NLP, and System Design.**
 - ⚡ Competitive Programmer
-  - Codeforces Specialist (Max: 1430)
-  - CodeChef 3★ (Max: 1644)
+  - 🟡 Codeforces Specialist (Max: **1430**)
+  - ⭐ CodeChef 3★ (Max: **1644**)
 - 🌱 Always learning and exploring new technologies.
 
 ---
@@ -17,29 +23,33 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,sql,html,css"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,sql,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-### Backend
+### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
 </p>
 
-### AI / ML
+### AI / Machine Learning
 
-TensorFlow • PyTorch • Scikit-learn • Hugging Face • BERT • Sentence Transformers • Pandas • NumPy
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+`Scikit-learn` • `Hugging Face` • `BERT` • `Sentence Transformers` • `Pandas` • `NumPy`
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
 </p>
 
 ---
@@ -47,34 +57,33 @@ TensorFlow • PyTorch • Scikit-learn • Hugging Face • BERT • Sentence T
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshitj100&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitj100&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshitj100&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=harshitj100&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitj100&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitj100&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Highlights
+## 🏆 Achievements
 
-- 🥈 Flipkart GRID 2025 Semi-Finalist
-- 🏆 Adobe India Hackathon – Round 2
-- 🥇 Synaptics Hackathon Finalist (Top 15)
-- 🚀 SIH Pre-Screening Qualified
+- 🥈 National Level **Semi-Finalist** — Flipkart GRID 2025
+- 🏆 **Finalist (Top 15/100+)** — Synaptics Hackathon, INVICTUS DTU
+- 🚀 Qualified for **Adobe India Hackathon Round 2**
+- 💡 Cleared **SIH Pre-Screening Round**
 - 🌟 Open Source Contributor
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🤝 CollabEdit – Real-Time Collaborative IDE
-- 🏛️ CivicAI – Intelligent Public Issue Reporting Platform
-- 🧠 Dark Pattern Detection with NLP
-- 📚 AI Codebase Knowledge Builder
-- 🌱 Spurti – Student Self-Motivation Platform
+- 🤝 **CollabEdit** — Real-Time Collaborative Coding Platform
+- 🏛️ **CivicAI** — Intelligent Public Issue Reporting Platform
+- 🧠 **Dark Pattern Detection with NLP**
+- 📚 **AI Codebase Knowledge Builder**
+- 🌱 **Spurti** — Student Self-Motivation Platform
 
 ---
 
@@ -82,6 +91,7 @@ TensorFlow • PyTorch • Scikit-learn • Hugging Face • BERT • Sentence T
 
 - Large Language Models (LLMs)
 - Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
 - System Design
 - Distributed Systems
 - Cloud Technologies
@@ -90,5 +100,16 @@ TensorFlow • PyTorch • Scikit-learn • Hugging Face • BERT • Sentence T
 
 ## 📫 Connect With Me
 
-- 📧 Email: **harshitjainmahi@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/harshit-jain-a91492277/**
+<p align="left">
+<a href="mailto:harshitjainmahi@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harshit-jain-a91492277/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/harshitj100">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
