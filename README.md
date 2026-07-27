@@ -44,9 +44,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-<p>
 Scikit-learn • Hugging Face • BERT • Sentence Transformers • Pandas • NumPy
-</p>
 
 ### Tools
 
